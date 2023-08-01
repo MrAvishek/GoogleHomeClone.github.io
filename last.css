@@ -1,0 +1,32 @@
+
+.country
+{
+    
+    padding: 15px 30px;
+    background-color: rgba(0, 0, 0, 0.116);
+    border-bottom-width: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(0,0,0,.15);
+}
+.last
+{
+
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.116);
+    justify-content: space-between;
+    
+    
+}
+.fseg
+
+{
+    display: flex;
+    padding:10px
+}
+.lseg
+
+{
+    justify-content: right;
+    display: flex;
+    padding: 10px;
+}

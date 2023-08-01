@@ -1,0 +1,45 @@
+.google-logo
+{
+    display:grid;
+    /* display: flex; */
+    justify-content: center;
+}
+.middle
+{
+    min-height: 500px;
+    padding: 25px;
+    
+}
+.div-searchbox
+{
+    display:flex;
+    
+    height: 35px;
+    
+    justify-content: center;
+}
+.searchbox{
+    width: 580px;
+    height: 38px;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,.15);
+}
+.bt-div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    flex-shrink: 0px;
+}
+.bt
+{
+    font-size: 14px;
+margin: 10px 5px;
+padding: 0px 16px;
+height:35px;
+border: none;
+}
+

@@ -1,0 +1,52 @@
+.main
+{
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.header
+
+{
+    display:flex;
+    justify-content: end;
+
+}
+.text-cointainer
+
+{
+    display: flex;
+    flex-direction: row;
+    padding-right:20px;
+}
+
+.writing-part
+
+{
+    padding-right: 15px;
+}
+.header-image
+{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-right: 10px;
+
+}
+.app-icons
+
+{
+    width:23px;
+    padding-right: 15px;
+}
+.account-logo
+{
+    display: flex;
+
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+border-radius: 25px;
+border: none;
+}
